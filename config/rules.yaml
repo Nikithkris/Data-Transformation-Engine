@@ -1,0 +1,7 @@
+rename:
+  CustomerIdentifier: customer_id
+  PremiumValue: premium
+  PolicyCategory: policy_type
+
+calculate:
+  tax_rate: 18
